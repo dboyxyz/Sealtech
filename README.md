@@ -1,3 +1,5 @@
-# Headline
+# Doyxyz的个人博客
 
-> An awesome project.
+> 你若要喜爱你自己的价值，你就得给世界创造价值。——歌德
+
+  本个人博客是作者 **@dboyxyz** 用来记录学习历程、生活点滴的地方。
